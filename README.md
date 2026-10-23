@@ -40,25 +40,25 @@ English
 
 English Reference Edition
 
-- "Read online — Markdown" (./Humanity_OS_v0.1_English_Reference_Edition.md)
-- "Download — PDF" (./Humanity_OS_v0.1_English_Reference_Edition.pdf)
-- "Download — DOCX" (./Humanity_OS_v0.1_English_Reference_Edition.docx)
+- [Read online — Markdown](./Humanity_OS_v0.1_English_Reference_Edition.md)
+- [Download — PDF](./Humanity_OS_v0.1_English_Reference_Edition.pdf)
+- [Download — DOCX](./Humanity_OS_v0.1_English_Reference_Edition.docx)
 
 日本語 / Japanese
 
 Japanese Reference Edition / 日本語参照版
 
-- "オンラインで読む — Markdown" (./Humanity_OS_v0.1_Constitution_JA.md)
-- "PDFをダウンロード" (./Humanity_OS_v0.1_Constitution_JA.pdf)
-- "DOCXをダウンロード" (./Humanity_OS_v0.1_Constitution_JA.docx)
+- [オンラインで読む — Markdown](./Humanity_OS_v0.1_Constitution_JA.md)
+- [PDFをダウンロード](./Humanity_OS_v0.1_Constitution_JA.pdf)
+- [DOCXをダウンロード](./Humanity_OS_v0.1_Constitution_JA.docx)
 
 Japanese + English / 日英
 
 Japanese–English Complete Parallel Reference Edition / 日英完全対訳参照版
 
-- "Read online / オンラインで読む — Markdown" (./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.md)
-- "Download / ダウンロード — PDF" (./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.pdf)
-- "Download / ダウンロード — DOCX" (./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.docx)
+- [Read online / オンラインで読む — Markdown](./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.md)
+- [Download / ダウンロード — PDF](./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.pdf)
+- [Download / ダウンロード — DOCX](./Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.docx)
 
 ---
 
@@ -66,7 +66,7 @@ Download the Complete Release
 
 For all editions and supporting documents in one package:
 
-"Download the latest Humanity OS release" (https://github.com/humanity-os-project/Humanity-OS/releases/latest)
+[Download the latest Humanity OS release](https://github.com/humanity-os-project/Humanity-OS/releases/latest)
 
 The release package includes the English, Japanese, and Japanese–English editions together with the project documentation.
 
@@ -217,7 +217,7 @@ You can contribute by:
 - proposing alternative institutional designs
 - creating a documented fork
 
-See "CONTRIBUTING.md" (./CONTRIBUTING.md) for the contribution protocol.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the contribution protocol.
 
 ---
 
@@ -227,7 +227,7 @@ Humanity OS v0.1 is released under the Creative Commons Attribution 4.0 Internat
 
 You are free to share, translate, adapt, and build upon the material with appropriate attribution.
 
-See "LICENSE.md" (./LICENSE.md) for details.
+See [LICENSE.md](./LICENSE.md) for details.
 
 ---
 
@@ -239,7 +239,7 @@ The English Reference Edition is intended to preserve the principles, rights, ob
 
 The Japanese–English edition is provided to make translation choices directly auditable.
 
-See "SOURCE_INTEGRITY.md" (./SOURCE_INTEGRITY.md) for details.
+See [SOURCE_INTEGRITY.md](./SOURCE_INTEGRITY.md) for details.
 
 ---
 
@@ -249,7 +249,7 @@ Humanity OS v0.1 — Initial Public Release
 
 October 23, 2026
 
-"View and download the latest release" (https://github.com/humanity-os-project/Humanity-OS/releases/latest)
+[View and download the latest release](https://github.com/humanity-os-project/Humanity-OS/releases/latest)
 
 ---
 
