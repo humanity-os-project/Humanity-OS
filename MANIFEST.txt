@@ -1,0 +1,13 @@
+CONTRIBUTING.md
+Humanity_OS_v0.1_Constitution_JA.docx
+Humanity_OS_v0.1_Constitution_JA.md
+Humanity_OS_v0.1_Constitution_JA.pdf
+Humanity_OS_v0.1_English_Reference_Edition.docx
+Humanity_OS_v0.1_English_Reference_Edition.md
+Humanity_OS_v0.1_English_Reference_Edition.pdf
+Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.docx
+Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.md
+Humanity_OS_v0.1_JA-EN_Complete_Parallel_Edition.pdf
+LICENSE.md
+README.md
+SOURCE_INTEGRITY.md
